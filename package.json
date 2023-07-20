@@ -16,7 +16,7 @@
     "es6-promise": "^4.2.8",
     "file-saver": "^2.0.2",
     "font-awesome": "^4.7.0",
-    "jszip": "^3.2.2",
+    "jszip": "^3.10.1",
     "rimraf": "^3.0.0",
     "vue": "^2.5.17",
     "vue-router": "^3.1.3",
