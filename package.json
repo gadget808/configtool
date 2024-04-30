@@ -12,7 +12,7 @@
     "@fortawesome/vue-fontawesome": "^0.1.8",
     "babel-polyfill": "^6.26.0",
     "bootstrap-vue": "^2.1.0",
-    "ejs": "^3.0.1",
+    "ejs": "^3.1.10",
     "es6-promise": "^4.2.8",
     "file-saver": "^2.0.2",
     "font-awesome": "^4.7.0",
